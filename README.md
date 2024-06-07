@@ -8,12 +8,12 @@ Um dieses Projekt lokal zu verwenden, folgen Sie diesen Schritten:
 
 1. Klonen Sie das Repository:
    ```bash
-   git clone https://github.com/BitSparkCode/Hello-World.git
+   git clone https://github.com/BitSparkCode/Hello-World-HTML.git
    ```
 
 2. Navigieren Sie in das Projektverzeichnis:
    ```bash
-   cd Hello-World
+   cd Hello-World-HTML
    ```
 
 3. Öffnen Sie die Datei `Hello World.html` in Ihrem bevorzugten Webbrowser.
